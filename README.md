@@ -13,7 +13,7 @@ Currently building [**Chariz**](https://chariz.com/), a directory and payment pl
 <table align="center">
 <tr><td width="500">
 <a href="https://wakatime.com/@kirb">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kirb&amp;api_domain=wakapi.dev&amp;layout=compact&amp;title_color=000&amp;hide_border=1&amp;custom_title=7%20Day%20Coding%20Activity" alt="">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kirb&amp;layout=compact&amp;title_color=000&amp;hide_border=1&amp;range=last_7_days&amp;custom_title=7%20Day%20Coding%20Activity" alt="">
 <br>
 <img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/kirb/interval:7_days&amp;logo=wakatime&amp;label=last%207d&amp;color=008e5a">
 <img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/kirb/interval:30_days&amp;logo=wakatime&amp;label=last%2030d&amp;color=008e5a">
